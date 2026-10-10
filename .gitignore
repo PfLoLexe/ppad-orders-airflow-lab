@@ -1,0 +1,18 @@
+# Индивидуальные пароли и ключи
+.env
+.env.*
+!.env.example
+private/
+*.pem
+*.key
+# Локальные журналы, кэш и настройки
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.venv/
+.vscode/
+reports/api-reference/
+# Новые наборы генерируются локально; эталонный набор включён в репозиторий
+data/snapshots/*
+!data/snapshots/orders-3db6d74e59523514/

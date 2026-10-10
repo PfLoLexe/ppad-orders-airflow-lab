@@ -1,0 +1,165 @@
+{
+  "catalog_sha256": "cb77cb6b428908deaea7f1e63bf7ba6229dad85fa6cb67a2e6e5b61937c6f857",
+  "config": {
+    "customers": 100,
+    "days": 30,
+    "orders": 1000,
+    "products": 30,
+    "seed": 42,
+    "start_date": "2026-09-01"
+  },
+  "dataset_id": "orders-3db6d74e59523514",
+  "schema_version": 1,
+  "snapshots": [
+    {
+      "date": "2026-09-01",
+      "file": "2026-09-01.json",
+      "sha256": "dec6f09cf5d5171173393a2dd0b97d98ebf28dc8de9ac8f46322702e19d243b6"
+    },
+    {
+      "date": "2026-09-02",
+      "file": "2026-09-02.json",
+      "sha256": "c6851b5cf6f6a03f742ad0ac7de2a5cfb8debaa08a7deefd726a879185b558a2"
+    },
+    {
+      "date": "2026-09-03",
+      "file": "2026-09-03.json",
+      "sha256": "4b881e010536577440c563a9f435c747d7f47e44bc0fb3e8123a4fa676e535be"
+    },
+    {
+      "date": "2026-09-04",
+      "file": "2026-09-04.json",
+      "sha256": "76a04f23668ad18110917128a24a9c93014f3120568e131e81d7f05344fdeab2"
+    },
+    {
+      "date": "2026-09-05",
+      "file": "2026-09-05.json",
+      "sha256": "aa8a63e9ded0b96dae3b0b497de36b8ce89f269ba55d674664b4d2b3574a145b"
+    },
+    {
+      "date": "2026-09-06",
+      "file": "2026-09-06.json",
+      "sha256": "0468e0b5d3d3570263757d15eb43ab611de19120ffee320880eaa5c23b379823"
+    },
+    {
+      "date": "2026-09-07",
+      "file": "2026-09-07.json",
+      "sha256": "5b600460ec6a3705eb56206e28da700aaa0bc267bfdfdcab10c66e8e139a85d0"
+    },
+    {
+      "date": "2026-09-08",
+      "file": "2026-09-08.json",
+      "sha256": "5de98516cef8411a77090dee2d0c9053ec551c9d54c676e181e909b4d434e914"
+    },
+    {
+      "date": "2026-09-09",
+      "file": "2026-09-09.json",
+      "sha256": "5e9bd74f905a9638d737f0acdfe39f97565e00aba6c9be62df17b1d940001a6b"
+    },
+    {
+      "date": "2026-09-10",
+      "file": "2026-09-10.json",
+      "sha256": "8ec912138471655321025868b022bed70acc1e1842a97dbf31e914af8428813f"
+    },
+    {
+      "date": "2026-09-11",
+      "file": "2026-09-11.json",
+      "sha256": "16be9cd9ba121158daa4986e59f37aa3d4767d82c7fbe5ebc7ddb743c2450c45"
+    },
+    {
+      "date": "2026-09-12",
+      "file": "2026-09-12.json",
+      "sha256": "ad54e0eb88f9ec98dbf3e2ca4b9c4f4657e58a8b2b35f8c824c4664fbe24048b"
+    },
+    {
+      "date": "2026-09-13",
+      "file": "2026-09-13.json",
+      "sha256": "3ec67d2e4321974310c91be204c4c9268f28bd5ba3c9e7dc0238d796f7401ff5"
+    },
+    {
+      "date": "2026-09-14",
+      "file": "2026-09-14.json",
+      "sha256": "6c47740f7832e06abcd86743d60ce5376412407f31fee8cc339ecbcb1d5eed85"
+    },
+    {
+      "date": "2026-09-15",
+      "file": "2026-09-15.json",
+      "sha256": "2d4c9dc09d0a73d2227064440eae211f9ac32e9ea6e9f25d5b46332de72529f5"
+    },
+    {
+      "date": "2026-09-16",
+      "file": "2026-09-16.json",
+      "sha256": "77adcf700f644733229d5ea166f19f641ec9f690470162b92a5fb1aefd3e14fd"
+    },
+    {
+      "date": "2026-09-17",
+      "file": "2026-09-17.json",
+      "sha256": "e8208459de739850ab17c85bb5626418d1cf7840119a9e66e429116bbd8dc678"
+    },
+    {
+      "date": "2026-09-18",
+      "file": "2026-09-18.json",
+      "sha256": "d83e963e1ec4837e344d8246d8cc9550ce450adf25dbcbefd3c266c67062a049"
+    },
+    {
+      "date": "2026-09-19",
+      "file": "2026-09-19.json",
+      "sha256": "49677e2463887bbf9283a540de7acc4bc4b03d412d4ae8ecdac04d8564b951b6"
+    },
+    {
+      "date": "2026-09-20",
+      "file": "2026-09-20.json",
+      "sha256": "05319428974e4e9bcce0686580a63e1eee64f868a7e72aa3f46c55ad0e0121dd"
+    },
+    {
+      "date": "2026-09-21",
+      "file": "2026-09-21.json",
+      "sha256": "4e6105bdb388d84d5afd1707f4388f0f538a87c24f825edda48f7146fd90bfb0"
+    },
+    {
+      "date": "2026-09-22",
+      "file": "2026-09-22.json",
+      "sha256": "89fffb0169de4cd8ba50c3e690019d7c9445695d198eb3af6342f6d5b275d9ab"
+    },
+    {
+      "date": "2026-09-23",
+      "file": "2026-09-23.json",
+      "sha256": "157d1d2e7c2c511f9d2606c42ae13a73365a726f9d8108480022c998333c00f8"
+    },
+    {
+      "date": "2026-09-24",
+      "file": "2026-09-24.json",
+      "sha256": "39458e686df3617fdf5989382d134d1eabbbb057f148c333c8b68d9fa03218af"
+    },
+    {
+      "date": "2026-09-25",
+      "file": "2026-09-25.json",
+      "sha256": "3d599ffa3ad07d89ccd2c97981b1738390fa85120072990524591cadeacde394"
+    },
+    {
+      "date": "2026-09-26",
+      "file": "2026-09-26.json",
+      "sha256": "1105898bf82fa19b65d0da003a6338ecbf07dfe00f712a3e56647f88c204a394"
+    },
+    {
+      "date": "2026-09-27",
+      "file": "2026-09-27.json",
+      "sha256": "e54990ef4f0d8c8727d24854e709b74d2fd59129d08e30e42676669ca1e48627"
+    },
+    {
+      "date": "2026-09-28",
+      "file": "2026-09-28.json",
+      "sha256": "2f768b91b22a9b9e60d4d83f233b200fb5a7f9d6d3f1f1bdfe10b3dc0d4321a5"
+    },
+    {
+      "date": "2026-09-29",
+      "file": "2026-09-29.json",
+      "sha256": "b8babf4c43b650dfae15251e42f493e1c2a039410983bfd4715b6baed5f1852d"
+    },
+    {
+      "date": "2026-09-30",
+      "file": "2026-09-30.json",
+      "sha256": "4135d494ce8023997418040083d90ddd221a6a46c51de2ea4cb26e889694ca4b"
+    }
+  ]
+}

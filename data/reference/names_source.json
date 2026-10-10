@@ -1,0 +1,43 @@
+{
+  "source": "Русские Викиновости",
+  "source_page": "https://ru.wikinews.org/wiki/Категория:Русские_имена",
+  "api_url": "https://ru.wikinews.org/w/api.php?action=query&list=categorymembers&cmtitle=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3A%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0&cmlimit=500&format=json&formatversion=2",
+  "retrieved_at_utc": "2026-10-10T14:53:16.000685+00:00",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "categorymembers": [
+        {
+          "pageid": 511338,
+          "ns": 0,
+          "title": "Саялы Садыгова: Азербайджанцам запрещено называть своих детей русскими именами"
+        },
+        {
+          "pageid": 511344,
+          "ns": 0,
+          "title": "София и Александр — самые популярные имена в Москве в 2019 году"
+        },
+        {
+          "pageid": 27285,
+          "ns": 0,
+          "title": "Азербайджан запретил давать новорождённым русские имена"
+        },
+        {
+          "pageid": 511482,
+          "ns": 14,
+          "title": "Категория:Русские имена по алфавиту"
+        },
+        {
+          "pageid": 511472,
+          "ns": 14,
+          "title": "Категория:Русские женские имена"
+        },
+        {
+          "pageid": 511467,
+          "ns": 14,
+          "title": "Категория:Русские мужские имена"
+        }
+      ]
+    }
+  }
+}

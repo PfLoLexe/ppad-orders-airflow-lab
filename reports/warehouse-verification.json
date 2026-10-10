@@ -1,0 +1,98 @@
+{
+  "snapshot_comparisons": 30,
+  "idempotence": true,
+  "transaction_rollback": true,
+  "checks": [
+    {
+      "layer": "dds",
+      "passed": true
+    },
+    {
+      "layer": "cdm",
+      "passed": true
+    }
+  ],
+  "tables": {
+    "dds.cities": {
+      "count": 5,
+      "sha256": "16542c3cf93aa0865090ff4c06053f6fc9293eb111c1f237dc8d583f18bd5d27"
+    },
+    "dds.customers": {
+      "count": 100,
+      "sha256": "68df27b1fade23c6786b28414cbf336872975b06bef4a90119d63bb7e0264945"
+    },
+    "dds.categories": {
+      "count": 5,
+      "sha256": "2a58e05ed775abcb3fe6f585585c296c293dcd5ff1cd1df739949213fcc281e9"
+    },
+    "dds.products": {
+      "count": 30,
+      "sha256": "0f30e2fa43f82dd7d3bd8b53d70adaf2e2abe2c16346b8f0e3d012c010e66dea"
+    },
+    "dds.product_versions": {
+      "count": 32,
+      "sha256": "68abf1cd889628c48282c3711a2059a1616de6cec37e58c4027e4d161583e3b1"
+    },
+    "dds.orders": {
+      "count": 1000,
+      "sha256": "47f3ed999f52f6fc5b95d2f594aee0b2bcd9f21e2622524f1e827810b5eac3f4"
+    },
+    "dds.order_items": {
+      "count": 2558,
+      "sha256": "d8563ba4d33845731f953ca6436f73d08e7f9722643ee2842c6d49ef810045c3"
+    },
+    "dds.order_status_versions": {
+      "count": 3478,
+      "sha256": "82e2a7fb6429eb90182d8757b093164c9dca027cf579a952b87d6e624dd755f1"
+    },
+    "cdm.order_snapshots": {
+      "count": 15290,
+      "sha256": "ae8204846634fdca196c39a9ab960b985c3c2e1ba669655d6e5bf680e9d31b1c"
+    },
+    "cdm.order_item_snapshots": {
+      "count": 39141,
+      "sha256": "636bd2ae79cb9a7b4d08daaaada3b04ba3802bdcf490aa4c2a8ad8fe749a19a6"
+    },
+    "cdm.daily_orders": {
+      "count": 2325,
+      "sha256": "3745200ee3e2cf710517de33890b9df945dda828082ae63e529f86874954c755"
+    },
+    "cdm.daily_sales": {
+      "count": 7687,
+      "sha256": "56b5c143877f555d2126f5c0787c8a1ef8a9879a925ba3a2798bb29eb0746358"
+    },
+    "ops.batches": {
+      "count": 30,
+      "sha256": "04a2562916a3dc383583bac7ee1ab4e0adaea9158dd4a1d70d45a6d85432e548"
+    }
+  },
+  "metrics": {
+    "orders": "1000",
+    "ordered_rub": "902647.95",
+    "delivered_orders": "700",
+    "sales_rub": "626442.90",
+    "average_check_rub": "894.92",
+    "cancelled_percent": "14.80",
+    "delivery_hours": "105.89"
+  },
+  "product_1_versions": [
+    [
+      "1",
+      "69.00",
+      "2026-08-31 21:00:00+00:00",
+      "2026-09-10 21:00:00+00:00"
+    ],
+    [
+      "1",
+      "75.90",
+      "2026-09-10 21:00:00+00:00",
+      "2026-09-20 21:00:00+00:00"
+    ],
+    [
+      "1",
+      "65.55",
+      "2026-09-20 21:00:00+00:00",
+      null
+    ]
+  ]
+}

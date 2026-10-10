@@ -1,0 +1,65 @@
+{
+  "cases": [
+    {
+      "filters": {},
+      "metrics": [
+        "1000",
+        "902647.95",
+        "626442.90",
+        "894.92",
+        "14.80",
+        "105.89"
+      ],
+      "passed": true
+    },
+    {
+      "filters": {
+        "snapshot_date": "2026-09-15"
+      },
+      "metrics": [
+        "502",
+        "449592.80",
+        "242544.00",
+        "891.71",
+        "12.75",
+        "104.69"
+      ],
+      "passed": true
+    },
+    {
+      "filters": {
+        "city": "Санкт-Петербург",
+        "category": "Канцелярия",
+        "date_from": "2026-09-05",
+        "date_to": "2026-09-26"
+      },
+      "metrics": [
+        "73",
+        "19246.45",
+        "17224.70",
+        "257.09",
+        "9.59",
+        "107.21"
+      ],
+      "passed": true
+    },
+    {
+      "filters": {
+        "date_from": "2026-10-01",
+        "date_to": "2026-10-02"
+      },
+      "metrics": [
+        "0",
+        "0",
+        "0",
+        null,
+        null,
+        null
+      ],
+      "passed": true
+    }
+  ],
+  "dds_access_denied": true,
+  "dashboard_cards": 12,
+  "dashboard_filters": 5
+}

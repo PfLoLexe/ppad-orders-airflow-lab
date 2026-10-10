@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-10T15:36:25.122322+00:00",
+  "services": [
+    {
+      "name": "/orders-lab-postgres-1",
+      "image": "postgres:17.11-bookworm",
+      "running": true,
+      "health": "healthy",
+      "restarts": 0,
+      "memory_limit": 536870912
+    },
+    {
+      "name": "/orders-lab-airflow-1",
+      "image": "apache/airflow:3.3.2-python3.12",
+      "running": true,
+      "health": "healthy",
+      "restarts": 0,
+      "memory_limit": 3221225472
+    },
+    {
+      "name": "/orders-lab-metabase-1",
+      "image": "metabase/metabase:v0.64.1",
+      "running": true,
+      "health": "healthy",
+      "restarts": 0,
+      "memory_limit": 1610612736
+    }
+  ],
+  "dag_runs": [
+    {
+      "dag_id": "orders_pipeline",
+      "run_id": "setup_20261010T152349",
+      "state": "success",
+      "run_after": "2026-10-10T15:23:52.544597+00:00",
+      "logical_date": "",
+      "start_date": "2026-10-10T15:23:52.675106+00:00",
+      "end_date": "2026-10-10T15:23:57.584168+00:00"
+    },
+    {
+      "dag_id": "orders_pipeline",
+      "run_id": "verified_first_run",
+      "state": "success",
+      "run_after": "2026-10-10T15:18:50.818693+00:00",
+      "logical_date": "",
+      "start_date": "2026-10-10T15:18:51.017690+00:00",
+      "end_date": "2026-10-10T15:23:41.823371+00:00"
+    },
+    {
+      "dag_id": "orders_pipeline",
+      "run_id": "manual__2026-10-10T15:12:06.267051+00:00",
+      "state": "failed",
+      "run_after": "2026-10-10T15:12:06.267051+00:00",
+      "logical_date": "",
+      "start_date": "2026-10-10T15:12:07.163609+00:00",
+      "end_date": "2026-10-10T15:17:54.844299+00:00"
+    }
+  ],
+  "docker_stats": [
+    {
+      "BlockIO": "36.9MB / 7.16MB",
+      "CPUPerc": "2.31%",
+      "Container": "orders-lab-postgres-1",
+      "ID": "e66f7c883be5",
+      "MemPerc": "19.15%",
+      "MemUsage": "98.04MiB / 512MiB",
+      "Name": "orders-lab-postgres-1",
+      "NetIO": "12MB / 65.6MB",
+      "PIDs": "23"
+    },
+    {
+      "BlockIO": "31.9MB / 0B",
+      "CPUPerc": "17.66%",
+      "Container": "orders-lab-airflow-1",
+      "ID": "e7db58c17db2",
+      "MemPerc": "32.87%",
+      "MemUsage": "1010MiB / 3GiB",
+      "Name": "orders-lab-airflow-1",
+      "NetIO": "63.4MB / 10.9MB",
+      "PIDs": "29"
+    },
+    {
+      "BlockIO": "165MB / 238kB",
+      "CPUPerc": "1.23%",
+      "Container": "orders-lab-metabase-1",
+      "ID": "1fbc6ca4152e",
+      "MemPerc": "81.52%",
+      "MemUsage": "1.223GiB / 1.5GiB",
+      "Name": "orders-lab-metabase-1",
+      "NetIO": "2.23MB / 1.36MB",
+      "PIDs": "111"
+    }
+  ],
+  "restored_original_volumes": true
+}

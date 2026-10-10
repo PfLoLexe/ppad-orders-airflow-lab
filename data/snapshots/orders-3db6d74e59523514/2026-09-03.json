@@ -1,0 +1,3167 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Канцелярия",
+      "reference_url": "https://t.me/s/fixprice_russia?before=60990"
+    },
+    {
+      "id": 2,
+      "name": "Товары для кухни",
+      "reference_url": "https://fix-price.com/catalog/dlya-doma/dlya-kukhni?page=2"
+    },
+    {
+      "id": 3,
+      "name": "Хранение вещей",
+      "reference_url": "https://fix-price.com/catalog/dlya-doma/organizatsiya-khraneniya"
+    },
+    {
+      "id": 4,
+      "name": "Домашний текстиль",
+      "reference_url": "https://fix-price.com/catalog/dlya-doma/tekstil"
+    },
+    {
+      "id": 5,
+      "name": "Освещение",
+      "reference_url": "https://fix-price.com/catalog/dlya-doma/elektrotovary"
+    }
+  ],
+  "customers": [
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Степан",
+      "id": 1,
+      "last_name": "Ефимов",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Степан",
+      "id": 2,
+      "last_name": "Морозов",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Александр",
+      "id": 3,
+      "last_name": "Путин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Никита",
+      "id": 4,
+      "last_name": "Пономарёв",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валентин",
+      "id": 5,
+      "last_name": "Путин",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Анна",
+      "id": 6,
+      "last_name": "Ефимова",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Анна",
+      "id": 7,
+      "last_name": "Субботина",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Кирилл",
+      "id": 8,
+      "last_name": "Логинов",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Алла",
+      "id": 9,
+      "last_name": "Субботина",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Александр",
+      "id": 10,
+      "last_name": "Путин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Алла",
+      "id": 11,
+      "last_name": "Пономарёва",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Анна",
+      "id": 12,
+      "last_name": "Логинова",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Валерия",
+      "id": 13,
+      "last_name": "Вагина",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Валерия",
+      "id": 14,
+      "last_name": "Пономарёва",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валентин",
+      "id": 15,
+      "last_name": "Пономарёв",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Валерия",
+      "id": 16,
+      "last_name": "Пономарёва",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Кирилл",
+      "id": 17,
+      "last_name": "Фокин",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валентин",
+      "id": 18,
+      "last_name": "Фокин",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Анна",
+      "id": 19,
+      "last_name": "Вагина",
+      "patronymic": "Валерьевна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Степан",
+      "id": 20,
+      "last_name": "Субботин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Анна",
+      "id": 21,
+      "last_name": "Фокина",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Алла",
+      "id": 22,
+      "last_name": "Логинова",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Никита",
+      "id": 23,
+      "last_name": "Путин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Валерия",
+      "id": 24,
+      "last_name": "Вагина",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Степан",
+      "id": 25,
+      "last_name": "Субботин",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Анна",
+      "id": 26,
+      "last_name": "Путина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Алла",
+      "id": 27,
+      "last_name": "Морозова",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валерий",
+      "id": 28,
+      "last_name": "Морозов",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Кирилл",
+      "id": 29,
+      "last_name": "Фокин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Анна",
+      "id": 30,
+      "last_name": "Субботина",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Степан",
+      "id": 31,
+      "last_name": "Логинов",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Степан",
+      "id": 32,
+      "last_name": "Морозов",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Никита",
+      "id": 33,
+      "last_name": "Субботин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Степан",
+      "id": 34,
+      "last_name": "Пономарёв",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Полина",
+      "id": 35,
+      "last_name": "Вагина",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валерий",
+      "id": 36,
+      "last_name": "Логинов",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Александр",
+      "id": 37,
+      "last_name": "Пономарёв",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Александр",
+      "id": 38,
+      "last_name": "Логинов",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Степан",
+      "id": 39,
+      "last_name": "Субботин",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валентин",
+      "id": 40,
+      "last_name": "Вагин",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Александр",
+      "id": 41,
+      "last_name": "Логинов",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Полина",
+      "id": 42,
+      "last_name": "Путина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Кирилл",
+      "id": 43,
+      "last_name": "Ефимов",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валентин",
+      "id": 44,
+      "last_name": "Пономарёв",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Полина",
+      "id": 45,
+      "last_name": "Морозова",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Алла",
+      "id": 46,
+      "last_name": "Пономарёва",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Степан",
+      "id": 47,
+      "last_name": "Ефимов",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валентин",
+      "id": 48,
+      "last_name": "Пономарёв",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Полина",
+      "id": 49,
+      "last_name": "Пономарёва",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Полина",
+      "id": 50,
+      "last_name": "Ефимова",
+      "patronymic": "Валерьевна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Полина",
+      "id": 51,
+      "last_name": "Путина",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Алла",
+      "id": 52,
+      "last_name": "Пономарёва",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Александр",
+      "id": 53,
+      "last_name": "Фокин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Алла",
+      "id": 54,
+      "last_name": "Морозова",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Никита",
+      "id": 55,
+      "last_name": "Логинов",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Анна",
+      "id": 56,
+      "last_name": "Логинова",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Кирилл",
+      "id": 57,
+      "last_name": "Логинов",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Анна",
+      "id": 58,
+      "last_name": "Субботина",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Кирилл",
+      "id": 59,
+      "last_name": "Субботин",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Алла",
+      "id": 60,
+      "last_name": "Фокина",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Никита",
+      "id": 61,
+      "last_name": "Логинов",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Валерия",
+      "id": 62,
+      "last_name": "Морозова",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Анна",
+      "id": 63,
+      "last_name": "Субботина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Валерия",
+      "id": 64,
+      "last_name": "Ефимова",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Александр",
+      "id": 65,
+      "last_name": "Субботин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Валерий",
+      "id": 66,
+      "last_name": "Субботин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валерия",
+      "id": 67,
+      "last_name": "Пономарёва",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Алла",
+      "id": 68,
+      "last_name": "Ефимова",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Алла",
+      "id": 69,
+      "last_name": "Ефимова",
+      "patronymic": "Валерьевна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Полина",
+      "id": 70,
+      "last_name": "Морозова",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Александр",
+      "id": 71,
+      "last_name": "Логинов",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Никита",
+      "id": 72,
+      "last_name": "Фокин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Алла",
+      "id": 73,
+      "last_name": "Морозова",
+      "patronymic": "Валерьевна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Валентин",
+      "id": 74,
+      "last_name": "Фокин",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Никита",
+      "id": 75,
+      "last_name": "Фокин",
+      "patronymic": "Кириллович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Валентин",
+      "id": 76,
+      "last_name": "Пономарёв",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Степан",
+      "id": 77,
+      "last_name": "Морозов",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Валентин",
+      "id": 78,
+      "last_name": "Субботин",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Полина",
+      "id": 79,
+      "last_name": "Ефимова",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Валерия",
+      "id": 80,
+      "last_name": "Фокина",
+      "patronymic": "Валентиновна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Кирилл",
+      "id": 81,
+      "last_name": "Пономарёв",
+      "patronymic": "Валерьевич"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валерий",
+      "id": 82,
+      "last_name": "Субботин",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Алла",
+      "id": 83,
+      "last_name": "Фокина",
+      "patronymic": "Александровна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Александр",
+      "id": 84,
+      "last_name": "Субботин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Валерия",
+      "id": 85,
+      "last_name": "Фокина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Никита",
+      "id": 86,
+      "last_name": "Путин",
+      "patronymic": "Валентинович"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Александр",
+      "id": 87,
+      "last_name": "Путин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Кирилл",
+      "id": 88,
+      "last_name": "Фокин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Валерия",
+      "id": 89,
+      "last_name": "Логинова",
+      "patronymic": "Никитична"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Полина",
+      "id": 90,
+      "last_name": "Фокина",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Кирилл",
+      "id": 91,
+      "last_name": "Пономарёв",
+      "patronymic": "Степанович"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Кирилл",
+      "id": 92,
+      "last_name": "Субботин",
+      "patronymic": "Никитич"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Анна",
+      "id": 93,
+      "last_name": "Субботина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "first_name": "Полина",
+      "id": 94,
+      "last_name": "Вагина",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Новосибирск",
+      "first_name": "Алла",
+      "id": 95,
+      "last_name": "Морозова",
+      "patronymic": "Валерьевна"
+    },
+    {
+      "city": "Казань",
+      "first_name": "Анна",
+      "id": 96,
+      "last_name": "Логинова",
+      "patronymic": "Степановна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Валентин",
+      "id": 97,
+      "last_name": "Пономарёв",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Никита",
+      "id": 98,
+      "last_name": "Вагин",
+      "patronymic": "Александрович"
+    },
+    {
+      "city": "Екатеринбург",
+      "first_name": "Полина",
+      "id": 99,
+      "last_name": "Пономарёва",
+      "patronymic": "Кирилловна"
+    },
+    {
+      "city": "Москва",
+      "first_name": "Степан",
+      "id": 100,
+      "last_name": "Морозов",
+      "patronymic": "Степанович"
+    }
+  ],
+  "meta": {
+    "currency": "RUB",
+    "dataset_id": "orders-3db6d74e59523514",
+    "observed_before": "2026-09-04T00:00:00+03:00",
+    "schema_version": 1,
+    "snapshot_date": "2026-09-03",
+    "synthetic": true
+  },
+  "orders": [
+    {
+      "created_at": "2026-09-01T12:48:00+03:00",
+      "customer_id": 67,
+      "id": 1,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 1,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "shipped",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "138.00"
+    },
+    {
+      "created_at": "2026-09-03T12:26:00+03:00",
+      "customer_id": 1,
+      "id": 6,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 2,
+          "product_id": 18,
+          "quantity": 1,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 15,
+          "quantity": 2,
+          "unit_price": "349.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 14,
+          "quantity": 2,
+          "unit_price": "249.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:26:00+03:00",
+      "total_amount": "1336.50"
+    },
+    {
+      "created_at": "2026-09-01T12:24:00+03:00",
+      "customer_id": 76,
+      "id": 8,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 22,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 26,
+          "quantity": 1,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 13,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "shipped",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "884.00"
+    },
+    {
+      "created_at": "2026-09-03T12:30:00+03:00",
+      "customer_id": 52,
+      "id": 34,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 14,
+          "quantity": 1,
+          "unit_price": "249.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 3,
+          "product_id": 22,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:30:00+03:00",
+      "total_amount": "688.50"
+    },
+    {
+      "created_at": "2026-09-01T12:53:00+03:00",
+      "customer_id": 78,
+      "id": 51,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 9,
+          "quantity": 3,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 1,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 19,
+          "quantity": 1,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 28,
+          "quantity": 3,
+          "unit_price": "79.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "820.00"
+    },
+    {
+      "created_at": "2026-09-02T12:37:00+03:00",
+      "customer_id": 47,
+      "id": 53,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 24,
+          "quantity": 2,
+          "unit_price": "649.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 3,
+          "quantity": 3,
+          "unit_price": "124.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:37:00+03:00",
+      "total_amount": "1794.00"
+    },
+    {
+      "created_at": "2026-09-03T12:56:00+03:00",
+      "customer_id": 85,
+      "id": 76,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 5,
+          "quantity": 1,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:56:00+03:00",
+      "total_amount": "62.00"
+    },
+    {
+      "created_at": "2026-09-03T12:27:00+03:00",
+      "customer_id": 96,
+      "id": 82,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 8,
+          "quantity": 2,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:27:00+03:00",
+      "total_amount": "174.00"
+    },
+    {
+      "created_at": "2026-09-03T12:30:00+03:00",
+      "customer_id": 8,
+      "id": 86,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 21,
+          "quantity": 3,
+          "unit_price": "549.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 10,
+          "quantity": 1,
+          "unit_price": "33.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 26,
+          "quantity": 2,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 9,
+          "quantity": 3,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:30:00+03:00",
+      "total_amount": "2275.00"
+    },
+    {
+      "created_at": "2026-09-02T12:18:00+03:00",
+      "customer_id": 28,
+      "id": 101,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 23,
+          "quantity": 3,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 27,
+          "quantity": 2,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 5,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 25,
+          "quantity": 3,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "2566.00"
+    },
+    {
+      "created_at": "2026-09-03T12:36:00+03:00",
+      "customer_id": 95,
+      "id": 114,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 12,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:36:00+03:00",
+      "total_amount": "436.00"
+    },
+    {
+      "created_at": "2026-09-03T12:19:00+03:00",
+      "customer_id": 60,
+      "id": 119,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 23,
+          "quantity": 2,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 24,
+          "quantity": 2,
+          "unit_price": "649.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 16,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:19:00+03:00",
+      "total_amount": "2942.00"
+    },
+    {
+      "created_at": "2026-09-03T12:32:00+03:00",
+      "customer_id": 11,
+      "id": 123,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 19,
+          "quantity": 1,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:32:00+03:00",
+      "total_amount": "265.00"
+    },
+    {
+      "created_at": "2026-09-02T12:41:00+03:00",
+      "customer_id": 39,
+      "id": 124,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 21,
+          "quantity": 3,
+          "unit_price": "549.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 7,
+          "quantity": 2,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 25,
+          "quantity": 3,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "2082.00"
+    },
+    {
+      "created_at": "2026-09-03T12:25:00+03:00",
+      "customer_id": 56,
+      "id": 129,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 8,
+          "quantity": 1,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 19,
+          "quantity": 2,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 12,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:25:00+03:00",
+      "total_amount": "452.00"
+    },
+    {
+      "created_at": "2026-09-01T12:16:00+03:00",
+      "customer_id": 31,
+      "id": 150,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 8,
+          "quantity": 2,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 15,
+          "quantity": 2,
+          "unit_price": "349.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 25,
+          "quantity": 3,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 9,
+          "quantity": 3,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "1466.00"
+    },
+    {
+      "created_at": "2026-09-02T12:42:00+03:00",
+      "customer_id": 16,
+      "id": 151,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 15,
+          "quantity": 2,
+          "unit_price": "349.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "698.00"
+    },
+    {
+      "created_at": "2026-09-03T12:59:00+03:00",
+      "customer_id": 25,
+      "id": 168,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 28,
+          "quantity": 3,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 12,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "124.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 18,
+          "quantity": 2,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:59:00+03:00",
+      "total_amount": "628.00"
+    },
+    {
+      "created_at": "2026-09-03T12:32:00+03:00",
+      "customer_id": 82,
+      "id": 185,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 14,
+          "quantity": 2,
+          "unit_price": "249.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:32:00+03:00",
+      "total_amount": "759.00"
+    },
+    {
+      "created_at": "2026-09-03T12:05:00+03:00",
+      "customer_id": 1,
+      "id": 187,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 5,
+          "quantity": 3,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 13,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 23,
+          "quantity": 3,
+          "unit_price": "449.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:05:00+03:00",
+      "total_amount": "1602.00"
+    },
+    {
+      "created_at": "2026-09-03T12:22:00+03:00",
+      "customer_id": 53,
+      "id": 189,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 3,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:22:00+03:00",
+      "total_amount": "1197.00"
+    },
+    {
+      "created_at": "2026-09-03T12:43:00+03:00",
+      "customer_id": 50,
+      "id": 208,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 2,
+          "product_id": 4,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:43:00+03:00",
+      "total_amount": "439.50"
+    },
+    {
+      "created_at": "2026-09-01T12:13:00+03:00",
+      "customer_id": 89,
+      "id": 225,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 3,
+          "quantity": 3,
+          "unit_price": "124.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 3,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 19,
+          "quantity": 2,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 8,
+          "quantity": 1,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "shipped",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "803.00"
+    },
+    {
+      "created_at": "2026-09-03T12:19:00+03:00",
+      "customer_id": 82,
+      "id": 234,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:19:00+03:00",
+      "total_amount": "149.00"
+    },
+    {
+      "created_at": "2026-09-03T12:59:00+03:00",
+      "customer_id": 21,
+      "id": 236,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 4,
+          "quantity": 2,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 15,
+          "quantity": 3,
+          "unit_price": "349.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 20,
+          "quantity": 3,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 2,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:59:00+03:00",
+      "total_amount": "2828.00"
+    },
+    {
+      "created_at": "2026-09-03T12:37:00+03:00",
+      "customer_id": 85,
+      "id": 247,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:37:00+03:00",
+      "total_amount": "149.00"
+    },
+    {
+      "created_at": "2026-09-03T12:15:00+03:00",
+      "customer_id": 32,
+      "id": 269,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 2,
+          "product_id": 6,
+          "quantity": 3,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 21,
+          "quantity": 3,
+          "unit_price": "549.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:15:00+03:00",
+      "total_amount": "1949.50"
+    },
+    {
+      "created_at": "2026-09-01T12:20:00+03:00",
+      "customer_id": 77,
+      "id": 272,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 3,
+          "quantity": 2,
+          "unit_price": "124.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        }
+      ],
+      "status": "shipped",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "488.50"
+    },
+    {
+      "created_at": "2026-09-03T12:18:00+03:00",
+      "customer_id": 63,
+      "id": 275,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 7,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 4,
+          "quantity": 2,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 6,
+          "quantity": 2,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:18:00+03:00",
+      "total_amount": "848.00"
+    },
+    {
+      "created_at": "2026-09-01T12:40:00+03:00",
+      "customer_id": 22,
+      "id": 305,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 8,
+          "quantity": 2,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 23,
+          "quantity": 2,
+          "unit_price": "449.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "1072.00"
+    },
+    {
+      "created_at": "2026-09-03T12:52:00+03:00",
+      "customer_id": 88,
+      "id": 306,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 10,
+          "quantity": 2,
+          "unit_price": "33.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:52:00+03:00",
+      "total_amount": "66.00"
+    },
+    {
+      "created_at": "2026-09-03T12:46:00+03:00",
+      "customer_id": 60,
+      "id": 314,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 29,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:46:00+03:00",
+      "total_amount": "398.00"
+    },
+    {
+      "created_at": "2026-09-02T12:06:00+03:00",
+      "customer_id": 98,
+      "id": 315,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 28,
+          "quantity": 2,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 2,
+          "quantity": 2,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:06:00+03:00",
+      "total_amount": "282.00"
+    },
+    {
+      "created_at": "2026-09-03T12:48:00+03:00",
+      "customer_id": 59,
+      "id": 323,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 3,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 2,
+          "product_id": 8,
+          "quantity": 1,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 9,
+          "quantity": 3,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 2,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:48:00+03:00",
+      "total_amount": "694.50"
+    },
+    {
+      "created_at": "2026-09-02T12:57:00+03:00",
+      "customer_id": 16,
+      "id": 328,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 16,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:57:00+03:00",
+      "total_amount": "783.00"
+    },
+    {
+      "created_at": "2026-09-02T12:12:00+03:00",
+      "customer_id": 97,
+      "id": 336,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 25,
+          "quantity": 2,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 26,
+          "quantity": 3,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 6,
+          "quantity": 2,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "819.00"
+    },
+    {
+      "created_at": "2026-09-03T12:16:00+03:00",
+      "customer_id": 86,
+      "id": 358,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 7,
+          "quantity": 3,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:16:00+03:00",
+      "total_amount": "207.00"
+    },
+    {
+      "created_at": "2026-09-01T12:00:00+03:00",
+      "customer_id": 71,
+      "id": 399,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 13,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 19,
+          "quantity": 2,
+          "unit_price": "79.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "227.00"
+    },
+    {
+      "created_at": "2026-09-03T12:06:00+03:00",
+      "customer_id": 81,
+      "id": 410,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 3,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 3,
+          "quantity": 2,
+          "unit_price": "124.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:06:00+03:00",
+      "total_amount": "1569.00"
+    },
+    {
+      "created_at": "2026-09-03T12:15:00+03:00",
+      "customer_id": 46,
+      "id": 427,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 16,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 3,
+          "quantity": 3,
+          "unit_price": "124.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:15:00+03:00",
+      "total_amount": "969.00"
+    },
+    {
+      "created_at": "2026-09-03T12:00:00+03:00",
+      "customer_id": 91,
+      "id": 435,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 21,
+          "quantity": 1,
+          "unit_price": "549.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 16,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:00:00+03:00",
+      "total_amount": "947.00"
+    },
+    {
+      "created_at": "2026-09-02T12:52:00+03:00",
+      "customer_id": 93,
+      "id": 436,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 2,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 24,
+          "quantity": 1,
+          "unit_price": "649.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "922.00"
+    },
+    {
+      "created_at": "2026-09-02T12:15:00+03:00",
+      "customer_id": 58,
+      "id": 452,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 28,
+          "quantity": 2,
+          "unit_price": "79.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 27,
+          "quantity": 1,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:15:00+03:00",
+      "total_amount": "557.00"
+    },
+    {
+      "created_at": "2026-09-01T12:02:00+03:00",
+      "customer_id": 45,
+      "id": 457,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 30,
+          "quantity": 2,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "496.00"
+    },
+    {
+      "created_at": "2026-09-03T12:52:00+03:00",
+      "customer_id": 34,
+      "id": 501,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 4,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 15,
+          "quantity": 3,
+          "unit_price": "349.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 10,
+          "quantity": 2,
+          "unit_price": "33.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 22,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:52:00+03:00",
+      "total_amount": "2108.00"
+    },
+    {
+      "created_at": "2026-09-03T12:37:00+03:00",
+      "customer_id": 48,
+      "id": 510,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 3,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:37:00+03:00",
+      "total_amount": "1197.00"
+    },
+    {
+      "created_at": "2026-09-03T12:54:00+03:00",
+      "customer_id": 95,
+      "id": 521,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 9,
+          "quantity": 2,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 5,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 20,
+          "quantity": 2,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:54:00+03:00",
+      "total_amount": "1120.00"
+    },
+    {
+      "created_at": "2026-09-03T12:31:00+03:00",
+      "customer_id": 28,
+      "id": 534,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 1,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 13,
+          "quantity": 3,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:31:00+03:00",
+      "total_amount": "606.00"
+    },
+    {
+      "created_at": "2026-09-01T12:32:00+03:00",
+      "customer_id": 73,
+      "id": 537,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 16,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 14,
+          "quantity": 1,
+          "unit_price": "249.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 13,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 28,
+          "quantity": 1,
+          "unit_price": "79.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "1132.00"
+    },
+    {
+      "created_at": "2026-09-02T12:44:00+03:00",
+      "customer_id": 22,
+      "id": 556,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 9,
+          "quantity": 1,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "99.00"
+    },
+    {
+      "created_at": "2026-09-03T12:20:00+03:00",
+      "customer_id": 26,
+      "id": 580,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 3,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:20:00+03:00",
+      "total_amount": "1197.00"
+    },
+    {
+      "created_at": "2026-09-01T12:05:00+03:00",
+      "customer_id": 19,
+      "id": 581,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 22,
+          "quantity": 1,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 3,
+          "quantity": 2,
+          "unit_price": "124.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 13,
+          "quantity": 3,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "952.00"
+    },
+    {
+      "created_at": "2026-09-02T12:50:00+03:00",
+      "customer_id": 2,
+      "id": 597,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 16,
+          "quantity": 1,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:50:00+03:00",
+      "total_amount": "199.00"
+    },
+    {
+      "created_at": "2026-09-03T12:59:00+03:00",
+      "customer_id": 36,
+      "id": 636,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 10,
+          "quantity": 1,
+          "unit_price": "33.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 7,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:59:00+03:00",
+      "total_amount": "171.00"
+    },
+    {
+      "created_at": "2026-09-02T12:28:00+03:00",
+      "customer_id": 37,
+      "id": 653,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 23,
+          "quantity": 2,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 18,
+          "quantity": 2,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 16,
+          "quantity": 1,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "cancelled",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1295.00"
+    },
+    {
+      "created_at": "2026-09-01T12:12:00+03:00",
+      "customer_id": 84,
+      "id": 670,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 27,
+          "quantity": 1,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "shipped",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "399.00"
+    },
+    {
+      "created_at": "2026-09-02T12:51:00+03:00",
+      "customer_id": 29,
+      "id": 680,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 2,
+          "unit_price": "41.50"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "83.00"
+    },
+    {
+      "created_at": "2026-09-01T12:45:00+03:00",
+      "customer_id": 8,
+      "id": 687,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 3,
+          "quantity": 2,
+          "unit_price": "124.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "248.00"
+    },
+    {
+      "created_at": "2026-09-03T12:05:00+03:00",
+      "customer_id": 87,
+      "id": 697,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 14,
+          "quantity": 1,
+          "unit_price": "249.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:05:00+03:00",
+      "total_amount": "249.00"
+    },
+    {
+      "created_at": "2026-09-03T12:09:00+03:00",
+      "customer_id": 50,
+      "id": 709,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 14,
+          "quantity": 1,
+          "unit_price": "249.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 22,
+          "quantity": 3,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 6,
+          "quantity": 2,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:09:00+03:00",
+      "total_amount": "1020.00"
+    },
+    {
+      "created_at": "2026-09-01T12:57:00+03:00",
+      "customer_id": 69,
+      "id": 719,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 22,
+          "quantity": 1,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "199.00"
+    },
+    {
+      "created_at": "2026-09-03T12:50:00+03:00",
+      "customer_id": 77,
+      "id": 720,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 18,
+          "quantity": 1,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:50:00+03:00",
+      "total_amount": "99.00"
+    },
+    {
+      "created_at": "2026-09-03T12:49:00+03:00",
+      "customer_id": 8,
+      "id": 731,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 25,
+          "quantity": 3,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 21,
+          "quantity": 1,
+          "unit_price": "549.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 15,
+          "quantity": 1,
+          "unit_price": "349.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:49:00+03:00",
+      "total_amount": "1394.00"
+    },
+    {
+      "created_at": "2026-09-03T12:52:00+03:00",
+      "customer_id": 83,
+      "id": 767,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 2,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 26,
+          "quantity": 3,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 8,
+          "quantity": 2,
+          "unit_price": "87.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:52:00+03:00",
+      "total_amount": "1717.00"
+    },
+    {
+      "created_at": "2026-09-02T12:29:00+03:00",
+      "customer_id": 51,
+      "id": 772,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 3,
+          "quantity": 3,
+          "unit_price": "124.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:29:00+03:00",
+      "total_amount": "372.00"
+    },
+    {
+      "created_at": "2026-09-02T12:00:00+03:00",
+      "customer_id": 71,
+      "id": 773,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 23,
+          "quantity": 2,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 30,
+          "quantity": 3,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:00:00+03:00",
+      "total_amount": "1394.00"
+    },
+    {
+      "created_at": "2026-09-03T12:01:00+03:00",
+      "customer_id": 22,
+      "id": 778,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 1,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 11,
+          "quantity": 3,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 3,
+          "product_id": 27,
+          "quantity": 1,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:01:00+03:00",
+      "total_amount": "799.50"
+    },
+    {
+      "created_at": "2026-09-02T12:26:00+03:00",
+      "customer_id": 27,
+      "id": 779,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 27,
+          "quantity": 2,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:26:00+03:00",
+      "total_amount": "798.00"
+    },
+    {
+      "created_at": "2026-09-02T12:15:00+03:00",
+      "customer_id": 30,
+      "id": 786,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 24,
+          "quantity": 2,
+          "unit_price": "649.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 29,
+          "quantity": 2,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 11,
+          "quantity": 3,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 4,
+          "product_id": 5,
+          "quantity": 1,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:15:00+03:00",
+      "total_amount": "1882.50"
+    },
+    {
+      "created_at": "2026-09-02T12:47:00+03:00",
+      "customer_id": 22,
+      "id": 803,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 26,
+          "quantity": 1,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 25,
+          "quantity": 2,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:47:00+03:00",
+      "total_amount": "347.00"
+    },
+    {
+      "created_at": "2026-09-03T12:18:00+03:00",
+      "customer_id": 31,
+      "id": 804,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 13,
+          "quantity": 1,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:18:00+03:00",
+      "total_amount": "69.00"
+    },
+    {
+      "created_at": "2026-09-01T12:35:00+03:00",
+      "customer_id": 71,
+      "id": 823,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 11,
+          "quantity": 2,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 2,
+          "product_id": 14,
+          "quantity": 2,
+          "unit_price": "249.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 22,
+          "quantity": 2,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 16,
+          "quantity": 1,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1178.00"
+    },
+    {
+      "created_at": "2026-09-02T12:05:00+03:00",
+      "customer_id": 85,
+      "id": 834,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:05:00+03:00",
+      "total_amount": "298.00"
+    },
+    {
+      "created_at": "2026-09-01T12:15:00+03:00",
+      "customer_id": 41,
+      "id": 835,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 2,
+          "quantity": 2,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 17,
+          "quantity": 3,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 29,
+          "quantity": 3,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "cancelled",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1168.00"
+    },
+    {
+      "created_at": "2026-09-03T12:40:00+03:00",
+      "customer_id": 56,
+      "id": 839,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 21,
+          "quantity": 3,
+          "unit_price": "549.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 23,
+          "quantity": 2,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 7,
+          "quantity": 3,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:40:00+03:00",
+      "total_amount": "2752.00"
+    },
+    {
+      "created_at": "2026-09-02T12:05:00+03:00",
+      "customer_id": 2,
+      "id": 848,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 18,
+          "quantity": 1,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 30,
+          "quantity": 2,
+          "unit_price": "99.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 16,
+          "quantity": 3,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "894.00"
+    },
+    {
+      "created_at": "2026-09-03T12:56:00+03:00",
+      "customer_id": 25,
+      "id": 869,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 5,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:56:00+03:00",
+      "total_amount": "186.00"
+    },
+    {
+      "created_at": "2026-09-01T12:34:00+03:00",
+      "customer_id": 82,
+      "id": 880,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 24,
+          "quantity": 3,
+          "unit_price": "649.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1947.00"
+    },
+    {
+      "created_at": "2026-09-01T12:44:00+03:00",
+      "customer_id": 11,
+      "id": 899,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 12,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 2,
+          "quantity": 3,
+          "unit_price": "62.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 23,
+          "quantity": 1,
+          "unit_price": "449.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 4,
+          "quantity": 2,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "cancelled",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "1240.00"
+    },
+    {
+      "created_at": "2026-09-02T12:38:00+03:00",
+      "customer_id": 92,
+      "id": 902,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 6,
+          "quantity": 2,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:38:00+03:00",
+      "total_amount": "323.00"
+    },
+    {
+      "created_at": "2026-09-02T12:03:00+03:00",
+      "customer_id": 46,
+      "id": 908,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 3,
+          "quantity": 2,
+          "unit_price": "124.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 10,
+          "quantity": 2,
+          "unit_price": "33.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 1,
+          "quantity": 2,
+          "unit_price": "69.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "452.00"
+    },
+    {
+      "created_at": "2026-09-01T12:19:00+03:00",
+      "customer_id": 70,
+      "id": 928,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 17,
+          "quantity": 1,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 27,
+          "quantity": 3,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 28,
+          "quantity": 2,
+          "unit_price": "79.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1504.00"
+    },
+    {
+      "created_at": "2026-09-01T12:09:00+03:00",
+      "customer_id": 72,
+      "id": 934,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 27,
+          "quantity": 3,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 17,
+          "quantity": 2,
+          "unit_price": "149.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 24,
+          "quantity": 2,
+          "unit_price": "649.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "2793.00"
+    },
+    {
+      "created_at": "2026-09-02T12:17:00+03:00",
+      "customer_id": 59,
+      "id": 940,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 30,
+          "quantity": 1,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "99.00"
+    },
+    {
+      "created_at": "2026-09-03T12:24:00+03:00",
+      "customer_id": 83,
+      "id": 953,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 20,
+          "quantity": 1,
+          "unit_price": "399.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 17,
+          "quantity": 3,
+          "unit_price": "149.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:24:00+03:00",
+      "total_amount": "915.00"
+    },
+    {
+      "created_at": "2026-09-01T12:42:00+03:00",
+      "customer_id": 76,
+      "id": 964,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 15,
+          "quantity": 2,
+          "unit_price": "349.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 27,
+          "quantity": 1,
+          "unit_price": "399.00"
+        }
+      ],
+      "status": "cancelled",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "1097.00"
+    },
+    {
+      "created_at": "2026-09-02T12:28:00+03:00",
+      "customer_id": 23,
+      "id": 969,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 12,
+          "quantity": 3,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 4,
+          "quantity": 2,
+          "unit_price": "199.00"
+        },
+        {
+          "line_no": 3,
+          "product_id": 2,
+          "quantity": 3,
+          "unit_price": "62.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-02T12:28:00+03:00",
+      "total_amount": "791.00"
+    },
+    {
+      "created_at": "2026-09-03T12:34:00+03:00",
+      "customer_id": 94,
+      "id": 971,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 9,
+          "quantity": 1,
+          "unit_price": "99.00"
+        }
+      ],
+      "status": "created",
+      "status_updated_at": "2026-09-03T12:34:00+03:00",
+      "total_amount": "99.00"
+    },
+    {
+      "created_at": "2026-09-01T12:42:00+03:00",
+      "customer_id": 1,
+      "id": 974,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 14,
+          "quantity": 2,
+          "unit_price": "249.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "41.50"
+        },
+        {
+          "line_no": 3,
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 4,
+          "product_id": 6,
+          "quantity": 3,
+          "unit_price": "87.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-02T00:00:00+03:00",
+      "total_amount": "869.50"
+    },
+    {
+      "created_at": "2026-09-02T12:16:00+03:00",
+      "customer_id": 94,
+      "id": 984,
+      "items": [
+        {
+          "line_no": 1,
+          "product_id": 12,
+          "quantity": 2,
+          "unit_price": "69.00"
+        },
+        {
+          "line_no": 2,
+          "product_id": 29,
+          "quantity": 3,
+          "unit_price": "199.00"
+        }
+      ],
+      "status": "paid",
+      "status_updated_at": "2026-09-03T00:00:00+03:00",
+      "total_amount": "735.00"
+    }
+  ],
+  "products": [
+    {
+      "catalog_price": "69.00",
+      "category_id": 1,
+      "id": 1,
+      "name": "Линейка складная",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "62.00",
+      "category_id": 1,
+      "id": 2,
+      "name": "Самоклеящиеся закладки",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "124.00",
+      "category_id": 1,
+      "id": 3,
+      "name": "Блокнот",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "199.00",
+      "category_id": 1,
+      "id": 4,
+      "name": "Набор цветных карандашей",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "62.00",
+      "category_id": 1,
+      "id": 5,
+      "name": "Точилка-ластик с контейнером",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "87.00",
+      "category_id": 1,
+      "id": 6,
+      "name": "Клей ПВА-М «Супер»",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "69.00",
+      "category_id": 2,
+      "id": 7,
+      "name": "Доска разделочная, 28×20 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "87.00",
+      "category_id": 2,
+      "id": 8,
+      "name": "Доска разделочная, 35×25 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "99.00",
+      "category_id": 2,
+      "id": 9,
+      "name": "Подставка под ложку",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "33.00",
+      "category_id": 2,
+      "id": 10,
+      "name": "Контейнер винтовой, 0,33 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "41.50",
+      "category_id": 2,
+      "id": 11,
+      "name": "Контейнер винтовой, 0,66 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "69.00",
+      "category_id": 2,
+      "id": 12,
+      "name": "Чашка, 200 мл",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "69.00",
+      "category_id": 3,
+      "id": 13,
+      "name": "Корзинка хозяйственная, 30×20×10 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "249.00",
+      "category_id": 3,
+      "id": 14,
+      "name": "Ящик хозяйственный с крышкой, 18 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "349.00",
+      "category_id": 3,
+      "id": 15,
+      "name": "Ящик на колёсах, 32 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "199.00",
+      "category_id": 3,
+      "id": 16,
+      "name": "Контейнер с крышкой на клипсах, 9 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "149.00",
+      "category_id": 3,
+      "id": 17,
+      "name": "Контейнер с крышкой на защёлках, 5 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "99.00",
+      "category_id": 3,
+      "id": 18,
+      "name": "Коробка с крышкой, 7 л",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "79.00",
+      "category_id": 4,
+      "id": 19,
+      "name": "Полотенце кухонное",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "399.00",
+      "category_id": 4,
+      "id": 20,
+      "name": "Полотенце махровое, 50×95 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "549.00",
+      "category_id": 4,
+      "id": 21,
+      "name": "Плед, 150×200 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "199.00",
+      "category_id": 4,
+      "id": 22,
+      "name": "Наволочка декоративная, 40×40 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "449.00",
+      "category_id": 4,
+      "id": 23,
+      "name": "Коврик для ванной, 80×50 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "649.00",
+      "category_id": 4,
+      "id": 24,
+      "name": "Простыня на резинке, 140×200×20 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "99.00",
+      "category_id": 5,
+      "id": 25,
+      "name": "Лампа светодиодная E27, 15 Вт",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "149.00",
+      "category_id": 5,
+      "id": 26,
+      "name": "Фонарик светодиодный, 9,5 см",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "399.00",
+      "category_id": 5,
+      "id": 27,
+      "name": "Светильник-ночник аккумуляторный с USB",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "79.00",
+      "category_id": 5,
+      "id": 28,
+      "name": "Лампа светодиодная E14",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "199.00",
+      "category_id": 5,
+      "id": 29,
+      "name": "Светильник-ночник «Шар» с USB",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    },
+    {
+      "catalog_price": "99.00",
+      "category_id": 5,
+      "id": 30,
+      "name": "Фонарь — лазерная указка, 12 насадок",
+      "updated_at": "2026-09-01T00:00:00+03:00"
+    }
+  ]
+}
